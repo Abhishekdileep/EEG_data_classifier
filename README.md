@@ -20,7 +20,7 @@ In this project, we aim to design and implement a classifier tailored to specifi
 5. Analyze the results obtained from the classifier and LRT implementation.
 
 ## Contributors
-- [Your Name](https://github.com/abhishekdileep)
+- [Abhishek dileep](https://github.com/abhishekdileep)
 <!-- - [Collaborator's Name (if applicable)](https://github.com/collaboratorusername) -->
 
 ## Acknowledgments
