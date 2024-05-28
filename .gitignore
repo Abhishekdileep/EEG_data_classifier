@@ -1,1 +1,7 @@
 temp.py
+__pycache__
+Data
+FFT_outputs
+img
+Norm_outputs
+Hilbert-Huang-transform
